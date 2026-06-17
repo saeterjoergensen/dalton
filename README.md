@@ -5,7 +5,7 @@
 ## Discord Membership Bot
 
 > "All you have to do is follow three simple rules. One, never underestimate your opponent. Expect the unexpected. Two, take it outside. Never start anything inside the bar unless it's absolutely necessary. And three, be nice."<br>
-—Dalton, *Road House* (1989)
+— Dalton, *Road House* (1989)
 
 Dalton is a Discord bot that verifies users against an external membership API.
 
